@@ -1,8 +1,6 @@
 # Glob-Gusters Video-Club · Base de Datos Relacional
 
-Script SQL correspondiente al ejercicio de la cadena de Video-Clubs **Glob-Gusters**, desarrollado como
-material de apoyo para la asignatura de Base de Datos (Ingeniería de Sistemas /
-Técnico en Programación de Software).
+Script SQL correspondiente al ejercicio de la cadena de Video-Clubs **Glob-Gusters**, desarrollado como Técnico en Programación de Software).
 
 Motor de base de datos: **MariaDB / MySQL** sobre entorno **XAMPP**.
 
